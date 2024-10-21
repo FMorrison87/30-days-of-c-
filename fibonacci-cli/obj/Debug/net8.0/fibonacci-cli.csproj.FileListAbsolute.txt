@@ -1,0 +1,14 @@
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.AssemblyInfoInputs.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.AssemblyInfo.cs
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.csproj.CoreCompileInputs.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/bin/Debug/net8.0/fibonacci-cli
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/bin/Debug/net8.0/fibonacci-cli.deps.json
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/bin/Debug/net8.0/fibonacci-cli.runtimeconfig.json
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/bin/Debug/net8.0/fibonacci-cli.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/bin/Debug/net8.0/fibonacci-cli.pdb
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/refint/fibonacci-cli.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.pdb
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/fibonacci-cli.genruntimeconfig.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/Debug/net8.0/ref/fibonacci-cli.dll
