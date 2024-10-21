@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/fibonacci-cli.csproj": {}
+    "/Users/francesmorrison/Desktop/coding/30-days-of-csharp/fibonacci-cli/fibonacci-cli.csproj": {}
   },
   "projects": {
-    "/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/fibonacci-cli.csproj": {
+    "/Users/francesmorrison/Desktop/coding/30-days-of-csharp/fibonacci-cli/fibonacci-cli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/fibonacci-cli.csproj",
+        "projectUniqueName": "/Users/francesmorrison/Desktop/coding/30-days-of-csharp/fibonacci-cli/fibonacci-cli.csproj",
         "projectName": "fibonacci-cli",
-        "projectPath": "/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/fibonacci-cli.csproj",
+        "projectPath": "/Users/francesmorrison/Desktop/coding/30-days-of-csharp/fibonacci-cli/fibonacci-cli.csproj",
         "packagesPath": "/Users/francesmorrison/.nuget/packages/",
-        "outputPath": "/Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/obj/",
+        "outputPath": "/Users/francesmorrison/Desktop/coding/30-days-of-csharp/fibonacci-cli/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/francesmorrison/.nuget/NuGet/NuGet.Config"

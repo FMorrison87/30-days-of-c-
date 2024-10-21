@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = fibonacci_cli
-build_property.ProjectDir = /Users/francesmorrison/Desktop/coding/30-days-of-c#/fibonacci-cli/
+build_property.ProjectDir = /Users/francesmorrison/Desktop/coding/30-days-of-csharp/fibonacci-cli/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
