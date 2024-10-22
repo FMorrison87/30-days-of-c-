@@ -1,0 +1,15 @@
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.AssemblyInfoInputs.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.AssemblyInfo.cs
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.csproj.CoreCompileInputs.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.sourcelink.json
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/bin/Debug/net8.0/simple-math-cli
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/bin/Debug/net8.0/simple-math-cli.deps.json
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/bin/Debug/net8.0/simple-math-cli.runtimeconfig.json
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/bin/Debug/net8.0/simple-math-cli.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/bin/Debug/net8.0/simple-math-cli.pdb
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/refint/simple-math-cli.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.pdb
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/simple-math-cli.genruntimeconfig.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/simple-math-cli/obj/Debug/net8.0/ref/simple-math-cli.dll
