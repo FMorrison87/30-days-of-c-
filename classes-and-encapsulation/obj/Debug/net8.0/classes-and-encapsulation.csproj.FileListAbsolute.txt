@@ -1,0 +1,15 @@
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.AssemblyInfoInputs.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.AssemblyInfo.cs
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.csproj.CoreCompileInputs.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.sourcelink.json
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/bin/Debug/net8.0/classes-and-encapsulation
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/bin/Debug/net8.0/classes-and-encapsulation.deps.json
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/bin/Debug/net8.0/classes-and-encapsulation.runtimeconfig.json
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/bin/Debug/net8.0/classes-and-encapsulation.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/bin/Debug/net8.0/classes-and-encapsulation.pdb
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/refint/classes-and-encapsulation.dll
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.pdb
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/classes-and-encapsulation.genruntimeconfig.cache
+/Users/francesmorrison/Desktop/coding/30-days-of-csharp/classes-and-encapsulation/obj/Debug/net8.0/ref/classes-and-encapsulation.dll
