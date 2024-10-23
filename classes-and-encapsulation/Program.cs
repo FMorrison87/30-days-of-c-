@@ -4,11 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Book book = new Book();
-        book.Title = "The Furious Fortitude";
-        book.Author = "Dangus Dangle";
-        book.Price = 16.50;
+        Book book = new Book
+        {
+            Title = "The Furious Fortitude",
+            Author = "Dangus Dangle",
+            Price = 16.50,
+        };
+
         book.DisplayBookInfo();
+        book.Price = -45;
 
     }
 
@@ -22,7 +26,7 @@ class Program
             get { return price; }
             set
             {
-                if (price < 0)
+                if (value < 0)
                 {
                     Console.WriteLine("Price must be greater than zero.");
                 }
@@ -33,7 +37,8 @@ class Program
             }
         }
 
-        public void DisplayBookInfo() {
+        public void DisplayBookInfo()
+        {
             Console.WriteLine($"Title: {Title}, Author: {Author}, Price: ${Price}");
         }
     }
